@@ -1,0 +1,841 @@
+.mac-book-air5-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mac-book-air5-mac-book-air5 {
+  width: 100%;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+.mac-book-air5-rectangle2 {
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vw;
+  object-fit: cover;
+  position: absolute;
+}
+.mac-book-air5-info,
+.mac-book-air5-stats1,
+.mac-book-air5-stats2 {
+  background: hsl(225.97deg 36.02% 18.87% / 38%)  ;
+  
+  /* Transparent white background */
+  width: 340px;
+  top: -21.65139389038086px;
+  border-radius: 15px; /* Rounded corners */
+  padding: 10px; /* Optional: Add some padding inside the elements */
+}
+
+.mac-book-air5-designs1 {
+  top: -1053px;
+  left: 773.52685546875px;
+  width: 1140.1663818359375px;
+  height: 1140.1663818359375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air5-ellipse11 {
+  top: 0px;
+  left: 0px;
+  width: 1140px;
+  height: 1140px;
+  position: absolute;
+  border-color: rgba(235, 232, 227, 1);
+  border-style: solid;
+  border-width: 1.038402795791626px;
+}
+.mac-book-air5-ellipse21 {
+  top: 52.95866394042969px;
+  left: 53.99702835083008px;
+  width: 1032px;
+  height: 1032px;
+  position: absolute;
+  border-color: rgba(235, 232, 227, 1);
+  border-style: solid;
+  border-width: 0.9400478005409241px;
+}
+.mac-book-air5-designs2 {
+  top: -552.48974609375px;
+  left: -773.6932373046875px;
+  width: 1140.1663818359375px;
+  height: 1140.1663818359375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air5-ellipse12 {
+  top: 0px;
+  left: 0px;
+  width: 1140px;
+  height: 1140px;
+  position: absolute;
+  border-color: rgba(235, 232, 227, 1);
+  border-style: solid;
+  border-width: 1.038402795791626px;
+}
+.mac-book-air5-ellipse22 {
+  top: 52.958335876464844px;
+  left: 53.99693298339844px;
+  width: 1032px;
+  height: 1032px;
+  position: absolute;
+  border-color: rgba(235, 232, 227, 1);
+  border-style: solid;
+  border-width: 0.9400478005409241px;
+}
+.mac-book-air5-frame1 {
+  gap: -310.473388671875px;
+  top: 13.439697265625px;
+  left: -210.87890625px;
+  width: 1352px;
+  height: 844.6386108398438px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.mac-book-air5-frame4 {
+  gap: 67.49617767333984px;
+  top: 617.8496704101562px;
+  left: 675.6759643554688px;
+  width: 600px;
+  height: 200.41175842285156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.mac-book-air5-name {
+  width: 340px;
+  height: 166px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air5-text10 {
+  color: rgba(235, 232, 227, 1);
+  width: 340px;
+  height: auto;
+  top: -80px;
+  position: absolute;
+  font-size: 120px;
+  align-self: stretch;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-photo {
+  top: -21.65139389038086px;
+  left: 642.4470825195312px;
+  width: 576px;
+  height: 685px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air5-text14 {
+/* IPL */
+
+position: absolute;
+width: 576px;
+height: 685px;
+left: 1.45px;
+top: -21.65px;
+
+font-family: "Helvetica" ,sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 554.801px;
+line-height: 685px;
+
+/* identical to box height */
+
+color: #EBE8E3;
+
+mix-blend-mode: soft-light;
+letter-spacing: -40px;
+
+}
+.mac-book-air5-frame13 {
+  gap: 24px;
+  top: 116.560302734375px;
+  left: 237.87890625px;
+  width: 376px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.mac-book-air5-info {
+  width: 376px;
+  height: 80.10005950927734px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  
+  /* background-color: rgba(235, 232, 227, 1); */
+}
+
+.mac-book-air5-data {
+  top: 19.22403907775879px;
+  left: 21.360027313232422px;
+  width: 300px;
+  height: 38.22407913208008px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air5-text16 {
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16.02001190185547px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text18 {
+  top: 19.224079132080078px;
+  left: -0.00001891718420665711px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-stats1 {
+  width: 376px;
+  height: 212.0899658203125px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  
+}
+.mac-book-air5-text20 {
+  top: 53.82157897949219px;
+  left: 21.075693130493164px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text22 {
+  top: 54.615447998046875px;
+  left: 110px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: right;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text24 {
+  top: 83.74365234375px;
+  left: 19.74141502380371px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text26 {
+  top: 113.78204345703125px;
+  left: 220px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: right;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text28 {
+  top: 83.74365234375px;
+  left: 230px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: right;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-physical-mental1 {
+  top: 113.78204345703125px;
+  left: 19.74141502380371px;
+  width: 220px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air5-text30 {
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-group71 {
+  top: 145.64117431640625px;
+  left: 19.74141502380371px;
+  width: 180px;
+  height: 19.000064849853516px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air5-text32 {
+  top: 0.00006399954145308584px;
+  left: 150px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: right;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text34 {
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text36 {
+  top: 23.917451858520508px;
+  left: 21.075693130493164px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16.02001190185547px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-stats2 {
+  width: 376px;
+  height: 212.0899658203125px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air5-text38 {
+  top: 53.821414947509766px;
+  left: 21.075693130493164px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text40 {
+  top: 54.61528396606445px;
+  left: 165px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: right;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text42 {
+  top: 90px;
+  left: 19.74141502380371px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text44 {
+  top: 125px;
+  left: 200px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: right;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text46 {
+  top: 90px;
+  left: 230px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: right;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-physical-mental2 {
+  top: 125px;
+  left: 19.74141502380371px;
+  width: 180px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac10 {
+  top: 300px;
+  left: 19.74141502380371px;
+  width: 180px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air5-text48 {
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text100 {
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-group72 {
+  top: 145.64100646972656px;
+  left: 19.74141502380371px;
+  width: 140.438232421875px;
+  height: 19.00002098083496px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air5-text50 {
+  top: 0.000021909827410127036px;
+  left: 120.43822479248047px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: right;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text52 {
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text54 {
+  top: 23.917287826538086px;
+  left: 21.075693130493164px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16.02001190185547px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 89.99999761581421%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-navigation {
+  margin: 13px ,30px;
+  top: -0.439697265625px;
+  left: 222.87890625px;
+  width: 1245px;
+  height: 86.48650360107422px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 86.48650360107422px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(235, 232, 227, 0);
+}
+.mac-book-air5-frame2 {
+  gap: 110.70272064208984px;
+  top: 4.846495628356934px;
+  left: 56.216224670410156px;
+  width: 698px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.mac-book-air5-cric-lys {
+  width: 157px;
+  height: 76px;
+}
+.mac-book-air5-text56 {
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  font-size: 17.297300338745117px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text58 {
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  font-size: 17.297300338745117px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-text60 {
+  top: 31.513519287109375px;
+  left: 860.8379516601562px;
+  color: rgba(235, 232, 227, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16.82359504699707px;
+  font-style: ☞;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air5-ellipse4 {
+  top: 544.560302734375px;
+  left: 70vw;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.mac-book-air5-imageremovebg1 {
+  position: absolute; /* Ensure the element is positioned absolutely */
+  bottom: 0; /* Aligns the image to the bottom */
+  left: 75vw; /* Aligns the image to the left */
+  top: 32vh;
+  scale: 2.5;
+}
+.mac-book-air5-group8 {
+  top: 692.486572265625px;
+  left: 50px;
+  width: 253px;
+  height: 129.91891479492188px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air5-vector10 {
+  top: 22.378170013427734px;
+  left: 90.13511657714844px;
+  width: 8px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector11 {
+  top: 22.378170013427734px;
+  left: 103.18915557861328px;
+  width: 24px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector12 {
+  top: 22.378170013427734px;
+  left: 131.7837371826172px;
+  width: 26px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector13 {
+  top: 22.378170013427734px;
+  left: 160.3782958984375px;
+  width: 9px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector14 {
+  top: 22.378170013427734px;
+  left: 170.32435607910156px;
+  width: 29px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector15 {
+  top: 22.378170013427734px;
+  left: 200.16217041015625px;
+  width: 24px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector16 {
+  top: 55.94572448730469px;
+  left: 90.13511657714844px;
+  width: 19px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector17 {
+  top: 55.94572448730469px;
+  left: 113.13512420654297px;
+  width: 24px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector18 {
+  top: 55.94572448730469px;
+  left: 138.6216278076172px;
+  width: 18px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector19 {
+  top: 55.94572448730469px;
+  left: 158.51356506347656px;
+  width: 35px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector20 {
+  top: 55.94572448730469px;
+  left: 195.81085205078125px;
+  width: 8px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector21 {
+  top: 55.94572448730469px;
+  left: 208.864990234375px;
+  width: 18px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector22 {
+  top: 55.94572448730469px;
+  left: 229.37841796875px;
+  width: 24px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector23 {
+  top: 89.5132827758789px;
+  left: 90.13511657714844px;
+  width: 17px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector24 {
+  top: 89.5132827758789px;
+  left: 110.64863586425781px;
+  width: 18px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector25 {
+  top: 89.5132827758789px;
+  left: 129.29733276367188px;
+  width: 29px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector26 {
+  top: 89.5132827758789px;
+  left: 157.27023315429688px;
+  width: 25px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector27 {
+  top: 89.5132827758789px;
+  left: 186.48655700683594px;
+  width: 24px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector28 {
+  top: 89.5132827758789px;
+  left: 214.45945739746094px;
+  width: 17px;
+  height: 27px;
+  position: absolute;
+}
+.mac-book-air5-vector29 {
+  top: 66.51318359375px;
+  left: 29.216150283813477px;
+  width: 53px;
+  height: 63px;
+  position: absolute;
+}
+.mac-book-air5-vector30 {
+  top: 22.999835968017578px;
+  left: 4.351404190063477px;
+  width: 11px;
+  height: 17px;
+  position: absolute;
+}
+.mac-book-air5-vector31 {
+  top: -0.0000848234340082854px;
+  left: 14.918865203857422px;
+  width: 63px;
+  height: 83px;
+  position: absolute;
+}
+.mac-book-air5-vector32 {
+  top: 14.918867111206055px;
+  left: 0px;
+  width: 58px;
+  height: 63px;
+  position: absolute;
+}
+#player-dropdown{
+  top: 20px;
+  left: 30vw;
+  position: absolute;
+  width: 300px;
+  height: 50px;
+}

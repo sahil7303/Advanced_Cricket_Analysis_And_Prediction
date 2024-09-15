@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="english">
+  <head>
+    <title>exported project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        background-color: #030c1c;
+        /* color: var(--dl-color-theme-neutral-dark); */
+        /* background: var(--dl-color-theme-neutral-light);
+
+        fill: var(--dl-color-theme-neutral-dark); */
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/animate.css@4.1.1/animate.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css"
+    />
+  </head>
+  <body>
+    <link rel="stylesheet" href="./style.css" />
+    <div>
+      <link href="./StatsPage.css" rel="stylesheet" />
+
+      <div class="mac-book-air5-container">
+        <div class="mac-book-air5-mac-book-air5">
+          <img
+            alt="Rectangle22017"
+            src="public/external/rectangle22017-gn9-1500w.png"
+            class="mac-book-air5-rectangle2"
+          />
+          <!-- <div class="mac-book-air5-designs1">
+            <img
+              alt="Ellipse12017"
+              src="public/external/ellipse12017-m0oh-1200h.png"
+              class="mac-book-air5-ellipse11"
+            />
+            <img
+              alt="Ellipse22017"
+              src="public/external/ellipse22017-ccbi-1100h.png"
+              class="mac-book-air5-ellipse21"
+            />
+          </div> -->
+          <!-- <div class="mac-book-air5-designs2">
+            <img
+              alt="Ellipse12017"
+              src="public/external/ellipse12017-32zn-1200h.png"
+              class="mac-book-air5-ellipse12"
+            />
+            <img
+              alt="Ellipse22017"
+              src="public/external/ellipse22017-g4ok-1100h.png"
+              class="mac-book-air5-ellipse22"
+            />
+          </div> -->
+          <div class="mac-book-air5-frame1">
+            <div class="mac-book-air5-frame4">
+              <div class="mac-book-air5-name">
+                <span class="mac-book-air5-text10">
+                  <span id="player-name"></span>
+                </span>
+              </div>
+            </div>
+            <div class="mac-book-air5-photo">
+              <span class="mac-book-air5-text14"><span>IPL</span></span>
+            </div>
+            <div class="mac-book-air5-frame13">
+              <div class="mac-book-air5-info">
+                <div class="mac-book-air5-data">
+                  <span class="mac-book-air5-text16">
+                    <span>Select Player</span>
+                  </span>
+                  <span class="mac-book-air5-text18">
+                    <span id="player-name1"></span>
+                  </span>
+                  <select id="player-dropdown" onchange="playerChanged()">
+                    <div>
+                      <option value="">Select Player</option>
+                    </div>
+                  </select>
+                  
+                </div>
+              </div>
+              <div class="mac-book-air5-stats1">
+                <span class="mac-book-air5-text20"><span>Runs - </span></span>
+                <span class="mac-book-air5-text22"><span id="runs"></span></span>
+                <span class="mac-book-air5-text24">
+                  <span>Innings Played -</span>
+                </span>
+                <span class="mac-book-air5-text26"><span id="hs"></span></span>
+                <span class="mac-book-air5-text28"><span id="inningsData"></span></span>
+                <div class="mac-book-air5-physical-mental1">
+                  <span class="mac-book-air5-text30">
+                    <span>Highest Score -</span>
+                  </span>
+                </div>
+                <div class="mac-book-air5-group71">
+                  <span class="mac-book-air5-text32"><span id="avg"></span></span>
+                  <span class="mac-book-air5-text34">
+                    <span>Avg Score -</span>
+                  </span>
+                </div>
+                <span class="mac-book-air5-text36">
+                  <span>Batting Stats in IPL 2024</span>
+                </span>
+              </div>
+              <div class="mac-book-air5-stats2">
+                <span class="mac-book-air5-text38"><span>Economy - </span></span>
+                <span class="mac-book-air5-text40"><span id="runsGiven">741</span></span>
+                <span class="mac-book-air5-text42">
+                  <span>Wickets/Match -</span>
+                </span>
+                <span class="mac-book-air5-text44"><span id="bowAvg">15</span></span>
+                <span class="mac-book-air5-text46"><span id="wickets">15</span></span>
+                <div class="mac-book-air5-physical-mental2">
+                  <span class="mac-book-air5-text48">
+                    <span>Bowling Avg -</span>
+                  </span>
+                </div>
+                <div class="mac-book-air5-physical-mental2">
+                  <span class="mac-book-air5-text48">
+                    <span>Bowling Avg -</span>
+                  </span>
+                </div>
+                <span class="mac-book-air5-text54">
+                  <span>Batting Stats IPL 2024</span>
+                </span>
+              </div>
+            </div>
+            <div class="mac-book-air5-navigation">
+              <div class="mac-book-air5-frame2">
+                <img
+                  alt="CricLysI2017"
+                  src="public/external/criclysi2017-aa5r.svg"
+                  class="mac-book-air5-cric-lys"
+                />
+                <span class="mac-book-air5-text56">
+                  <span>Player Stats</span>
+                </span>
+                <span class="mac-book-air5-text58">
+                  <span>Comparative Analysis</span>
+                </span>
+              </div>
+              <span class="mac-book-air5-text60">
+                <span>
+                  ©&nbsp;2024&nbsp;BinaryBlackHole All rights reserved
+                </span>
+              </span>
+            </div>
+            <img
+              alt="Ellipse42017"
+              src="https://scores.iplt20.com/ipl/teamlogos/RCB.png?v=1"
+              class="mac-book-air5-ellipse4"
+              id="teamLogo"
+            />
+          </div>
+          <img
+            alt="imageremovebg12017"
+            src="https://scores.iplt20.com/ipl/playerimages/Virat%20Kohli.png?v=1"
+            class="mac-book-air5-imageremovebg1"
+            id="playerImg"
+          />
+          <div class="mac-book-air5-group8">
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-ibh.svg"
+              class="mac-book-air5-vector10"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-sim.svg"
+              class="mac-book-air5-vector11"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-w9z8.svg"
+              class="mac-book-air5-vector12"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-remr.svg"
+              class="mac-book-air5-vector13"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-bg4.svg"
+              class="mac-book-air5-vector14"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-hj3t.svg"
+              class="mac-book-air5-vector15"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-h21i.svg"
+              class="mac-book-air5-vector16"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-qct9.svg"
+              class="mac-book-air5-vector17"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-yq4q.svg"
+              class="mac-book-air5-vector18"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-tzqd.svg"
+              class="mac-book-air5-vector19"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-l77.svg"
+              class="mac-book-air5-vector20"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-kw2m.svg"
+              class="mac-book-air5-vector21"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-mp7b.svg"
+              class="mac-book-air5-vector22"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-5cka.svg"
+              class="mac-book-air5-vector23"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-2q1h.svg"
+              class="mac-book-air5-vector24"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-imud.svg"
+              class="mac-book-air5-vector25"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-53rb.svg"
+              class="mac-book-air5-vector26"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-ph2o.svg"
+              class="mac-book-air5-vector27"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-np88.svg"
+              class="mac-book-air5-vector28"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-vdyj.svg"
+              class="mac-book-air5-vector29"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-t09l.svg"
+              class="mac-book-air5-vector30"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-92m.svg"
+              class="mac-book-air5-vector31"
+            />
+            <img
+              alt="Vector2017"
+              src="public/external/vector2017-rcta.svg"
+              class="mac-book-air5-vector32"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="StatsPage.js"></script>
+  </body>
+</html>
