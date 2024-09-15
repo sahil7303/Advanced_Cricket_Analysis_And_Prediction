@@ -25,8 +25,13 @@ To run this project locally, follow these steps:
    python Perdiction_backend/api.py
    ```
 
-   
-5. **Run the Node Backend(to get the player's current stats, team logo, player image etc.) :**
+    To test the API do post call to `http://127.0.0.1:8000/player_stats` with json body like:
+   {
+      "player_name": player,
+      "venue": venue,
+      "opponent": team
+    }
+6. **Run the Node Backend(to get the player's current stats, team logo, player image etc.) :**
    1) go to `cd Stats_page_backend` folder
    2) Run the following command
    ```bash
