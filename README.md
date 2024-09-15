@@ -1,6 +1,6 @@
 # Advance-Cricket-Analysis-And-Prediction
 
-## Installation
+## Run Locally
 
 To run this project locally, follow these steps:
 
@@ -19,10 +19,13 @@ To run this project locally, follow these steps:
    python api.py
    ```
 6. **Access the App in Your Browser:**
-\nOpen the `index.html` file located inside the `Frontend` folder in your browser.
+
+Open the `index.html` file located inside the `Frontend` folder in your browser.
+
 This will load the website frontend, allowing you to input player details and view predictions fetched from the API.
 
-### Screenshots:-
+
+## Screenshots:-
 <img src="https://github.com/user-attachments/assets/4f1f451e-fe26-43c2-98e7-446e42aaf28a" width=auto>
 <img src="https://github.com/user-attachments/assets/3804873e-aa18-4407-8da6-c511132bd2f4" width=auto>
 <img src="https://github.com/user-attachments/assets/22f6b9d7-43ba-4e78-a986-e43cea85ec19" width=auto>
