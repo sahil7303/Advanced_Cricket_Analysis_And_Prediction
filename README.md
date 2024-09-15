@@ -44,9 +44,11 @@ This will load the website frontend, allowing you to input player details and vi
 ![Workflow](https://github.com/user-attachments/assets/040c0c7a-87cb-4858-a2ee-f62b2d3fd2c8)
 
 
-
 ## Screenshots:-
 <img src="https://github.com/user-attachments/assets/4f1f451e-fe26-43c2-98e7-446e42aaf28a" width=auto>
 <img src="https://github.com/user-attachments/assets/3804873e-aa18-4407-8da6-c511132bd2f4" width=auto>
 <img src="https://github.com/user-attachments/assets/22f6b9d7-43ba-4e78-a986-e43cea85ec19" width=auto>
+
+## Get the Figma design at
+`https://www.figma.com/design/gXKwUrluXQXtEDWr3GwqMz/testingweb?node-id=0-1&node-type=canvas&t=RX3lQetclyUkMqVs-0`
 
