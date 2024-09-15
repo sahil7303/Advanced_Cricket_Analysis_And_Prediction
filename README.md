@@ -2,7 +2,7 @@
 
 The Player Performance Analytics & Prediction Web App is designed to analyze and predict a cricket player’s performance in future matches. By leveraging machine learning models, the app compares a player’s performance in two matches—one win and one loss—against the same team, identifying key metrics such as runs, strike rate, wickets, and economy. Using these insights, the app forecasts the player’s expected performance in the next match and predicts fantasy points, assisting users in fantasy leagues, sports teams, and betting platforms.
 
-## Featrues :
+## Features :
    1) See Players **Latest Stats**
    2) Predict the player's performance **against a Team** at a **specific Venue**
 
@@ -33,12 +33,12 @@ To run this project locally, follow these steps:
      node app.js
    ```
 
-   To test the api go to `http://localhost:3000/player/Harshal%20Patel`
+   To test the API go to `http://localhost:3000/player/Harshal%20Patel`
 7. **Access the App in Your Browser:**
 
 Open the `index.html` file located inside the `Frontend` folder in your browser.
 
-This will load the website frontend, allowing you to input player details and view predictions fetched from the API.
+This will load the website front-end, allowing you to input player details and view predictions fetched from the API.
 
 ## Working of the Model
 ![Workflow](https://github.com/user-attachments/assets/040c0c7a-87cb-4858-a2ee-f62b2d3fd2c8)
