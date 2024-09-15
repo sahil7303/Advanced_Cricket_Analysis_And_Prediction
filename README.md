@@ -1,22 +1,26 @@
 # Advance-Cricket-Analysis-And-Prediction
 
-## How to Run the Project Locally
+## Installation
 
-#### Step 1: Clone the Repository
-cd Advance-Cricket-Analysis-And-Prediction
+To run this project locally, follow these steps:
 
-#### Step 2: install packages from requirements.txt
+1. **Clone the Repository:**
 
-#### Step 3: Start the Flask API
-Run the Flask server by executing the following command in the project directory:
-python api.py
-By default, the server will be accessible at http://127.0.0.1:5000.
-
-#### Step 4:Access the Web Frontend
-
-Open the index.html file located inside the Hackasol/ folder in your browser.
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd Advanced_Cricket_Analysis_And_Prediction
+   ```
+3. **Install the Required Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run the Flask API:**
+   ```bash
+   python api.py
+   ```
+6. **Access the App in Your Brows:**
+   Open the `index.html` file located inside the `Frontend` folder in your browser.
 This will load the website frontend, allowing you to input player details and view predictions fetched from the API.
-
 
 ### Screenshots:-
 <img src="https://github.com/user-attachments/assets/4f1f451e-fe26-43c2-98e7-446e42aaf28a" width=auto>
