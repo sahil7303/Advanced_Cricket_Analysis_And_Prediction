@@ -25,7 +25,7 @@ Open the `index.html` file located inside the `Frontend` folder in your browser.
 This will load the website frontend, allowing you to input player details and view predictions fetched from the API.
 
 ## Working of the Model
-![Screenshot from 2024-09-16 01-48-35](https://github.com/user-attachments/assets/040c0c7a-87cb-4858-a2ee-f62b2d3fd2c8)
+![Workflow](https://github.com/user-attachments/assets/040c0c7a-87cb-4858-a2ee-f62b2d3fd2c8)
 
 
 
