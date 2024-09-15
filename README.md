@@ -1,5 +1,7 @@
 # Advanced-Cricket-Analysis-And-Prediction
 
+The Player Performance Analytics & Prediction Web App is designed to analyze and predict a cricket player’s performance in future matches. By leveraging machine learning models, the app compares a player’s performance in two matches—one win and one loss—against the same team, identifying key metrics such as runs, strike rate, wickets, and economy. Using these insights, the app forecasts the player’s expected performance in the next match and predicts fantasy points, assisting users in fantasy leagues, sports teams, and betting platforms.
+
 ## Run Locally
 
 To run this project locally, follow these steps:
