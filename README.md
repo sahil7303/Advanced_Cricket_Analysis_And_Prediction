@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
    ```
 4. **Run the Flask API:**
    ```bash
-   python api.py
+   python Perdiction_backend/api.py
    ```
 6. **Access the App in Your Browser:**
 
