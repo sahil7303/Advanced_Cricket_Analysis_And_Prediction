@@ -20,11 +20,16 @@ To run this project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-4. **Run the Flask API:**
+4. **Run the Flask Backend(which contains the model for prediction):**
    ```bash
    python Perdiction_backend/api.py
    ```
-6. **Access the App in Your Browser:**
+5. **Run the Node Backend(to get the player's current stats, team logo, player image etc.) :**
+   - go to Stats Backend folder and run the following command:
+   ```bash
+     node app.js
+   ```
+7. **Access the App in Your Browser:**
 
 Open the `index.html` file located inside the `Frontend` folder in your browser.
 
