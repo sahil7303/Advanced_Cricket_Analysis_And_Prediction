@@ -24,11 +24,16 @@ To run this project locally, follow these steps:
    ```bash
    python Perdiction_backend/api.py
    ```
+
+   
 5. **Run the Node Backend(to get the player's current stats, team logo, player image etc.) :**
-   - go to Stats Backend folder and run the following command:
+   1) go to `cd Stats_page_backend` folder
+   2) Run the following command
    ```bash
      node app.js
    ```
+
+   To test the api go to `http://localhost:3000/player/Harshal%20Patel`
 7. **Access the App in Your Browser:**
 
 Open the `index.html` file located inside the `Frontend` folder in your browser.
