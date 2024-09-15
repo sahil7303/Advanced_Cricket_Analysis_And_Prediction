@@ -19,8 +19,8 @@ To run this project locally, follow these steps:
    python api.py
    ```
 6. **Access the App in Your Browser:**
-   \Open the `index.html` file located inside the `Frontend` folder in your browser.
-   This will load the website frontend, allowing you to input player details and view predictions fetched from the API.
+\Open the `index.html` file located inside the `Frontend` folder in your browser.
+This will load the website frontend, allowing you to input player details and view predictions fetched from the API.
 
 ### Screenshots:-
 <img src="https://github.com/user-attachments/assets/4f1f451e-fe26-43c2-98e7-446e42aaf28a" width=auto>
