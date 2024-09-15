@@ -1,4 +1,4 @@
-# Advance-Cricket-Analysis-And-Prediction
+# Advanced-Cricket-Analysis-And-Prediction
 
 ## Run Locally
 
